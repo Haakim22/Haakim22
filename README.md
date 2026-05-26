@@ -1,7 +1,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Campanale%20Haakim%20bin%20Yusuf&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=B.Sc.%20(Hons)%20Artificial%20Intelligence%20Student%20%7C%20AI%20Engineer&descSize=18&descAlignY=55&textBg=false"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=There%20is%20a%20difference%20between%20knowing%20the%20path%20and%20walking%20the%20path." alt="Typing introduction" />
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&duration=4000&pause=1000&color=000000&center=true&vCenter=true&width=900&lines=There%20is%20a%20difference%20between%20knowing%20the%20path%20and%20walking%20the%20path." 
+    alt="Typing introduction" 
+  />
 </p>
 
 <p align="center">
