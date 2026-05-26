@@ -5,7 +5,7 @@
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&duration=4000&pause=1000&color=000000&center=true&vCenter=true&width=900&lines=There%20is%20a%20difference%20between%20knowing%20the%20path%20and%20walking%20the%20path." 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&duration=4000&pause=1000&color=808080&center=true&vCenter=true&width=900&lines=There%20is%20a%20difference%20between%20knowing%20the%20path%20and%20walking%20the%20path." 
     alt="Typing introduction" 
   />
 </p>
